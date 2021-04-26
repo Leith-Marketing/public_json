@@ -1,78 +1,97 @@
 [
   {
     "name" : "arsenal",
-    "pic" : "https://logodownload.org/wp-content/uploads/2017/02/Arsenal-logo-escudo-shield-1.png"
+    "pic" : "https://logodownload.org/wp-content/uploads/2017/02/Arsenal-logo-escudo-shield-1.png",
+    "isChecked": false
   },
   {
     "name" : "Aston Villa",
-    "pic" : "https://toppng.com/uploads/preview/aston-villa-logo-png-11536012608uoiti56oh4.png"
+    "pic" : "https://toppng.com/uploads/preview/aston-villa-logo-png-11536012608uoiti56oh4.png",
+    "isChecked": false
   },
   {
     "name" : "Brighton",
-    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png"
+    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1200px-Brighton_%26_Hove_Albion_logo.svg.png",
+    "isChecked": false
   },
   {
     "name" : "Burnley",
-    "pic" : "https://www.logofootball.net/wp-content/uploads/burnley-fc-logo.png"
+    "pic" : "https://www.logofootball.net/wp-content/uploads/burnley-fc-logo.png",
+    "isChecked": false
   },
   {
     "name" : "Chelsea",
-    "pic" : "https://iconape.com/wp-content/png_logo_vector/chelsea-f-c-logo.png"
+    "pic" : "https://iconape.com/wp-content/png_logo_vector/chelsea-f-c-logo.png",
+    "isChecked": false
   },
   {
     "name" : "Crystal Palace",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e2.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e2.png",
+    "isChecked": false
   }, 
   {
     "name" : "Everton",
-    "pic" : "https://www.logofootball.net/wp-content/uploads/everton-fc-logo.png"
+    "pic" : "https://www.logofootball.net/wp-content/uploads/everton-fc-logo.png",
+    "isChecked": false
   }, 
   {
     "name" : "Fulham",
-    "pic" : "https://www.logofootball.net/wp-content/uploads/fulham-fc-logo.png"
+    "pic" : "https://www.logofootball.net/wp-content/uploads/fulham-fc-logo.png",
+    "isChecked": false
   }, 
   {
     "name" : "Leeds",
-    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png"
+    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "isChecked": false
   }, 
   {
     "name" : "Leicester",
-    "pic" : "https://logodownload.org/wp-content/uploads/2019/05/leicester-city-logo.png"
+    "pic" : "https://logodownload.org/wp-content/uploads/2019/05/leicester-city-logo.png",
+    "isChecked": false
   },
   {
     "name" : "Liverpool",
-    "pic" : "https://iconape.com/wp-content/files/ns/164897/png/164897.png"
+    "pic" : "https://iconape.com/wp-content/files/ns/164897/png/164897.png",
+    "isChecked": false
   },
   {
     "name" : "Manchester City",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e7.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e7.png",
+    "isChecked": false
   },
   {
     "name" : "Newcastle United",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ec.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ec.png",
+    "isChecked": false
   },
   {
     "name" : "Sheffield United",
-    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png"
+    "pic" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
+    "isChecked": false
   }, 
   {
     "name" : "Southampton FC",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ea.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ea.png",
+    "isChecked": false
   },
   {
     "name" : "Tottenham Hotspur",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png",
+    "isChecked": false
   },
   {
     "name" : "West Bromwich Albion FC",
-    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4f4.png"
+    "pic" : "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4f4.png",
+    "isChecked": false
   },
   {
     "name" : "West Ham United",
-    "pic" : "https://upload.wikimedia.org/wikipedia/sco/thumb/c/c2/West_Ham_United_FC_logo.svg/922px-West_Ham_United_FC_logo.svg.png"
+    "pic" : "https://upload.wikimedia.org/wikipedia/sco/thumb/c/c2/West_Ham_United_FC_logo.svg/922px-West_Ham_United_FC_logo.svg.png",
+    "isChecked": false
   },
   {
     "name" : "Wolverhampton Wanderers",
-    "pic" : "https://logodownload.org/wp-content/uploads/2019/04/wolverhampton-logo-escudo.png"
+    "pic" : "https://logodownload.org/wp-content/uploads/2019/04/wolverhampton-logo-escudo.png",
+    "isChecked": false
   }
 ]
